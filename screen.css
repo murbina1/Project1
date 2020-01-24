@@ -1,9 +1,16 @@
-html{
-	h1{
+body{
+	margin-left:15vw;
+	margin-right:15vw;
+	margin-top:15vw;
+	margin-bottom:15vw;
+}
+	p{
 		color:#2A2A2A;
 	}
-	p{
+
+	h1{
 		color:#2AA8CC;
-		font-family: Robot Thin, Arial, monospace; DIN Next light
 	}
-}
+		 /* */
+		color:#2AA8CC;
+	/*	font-family: Robot Thin, Arial, monospace; DIN Next light */

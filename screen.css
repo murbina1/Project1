@@ -1,4 +1,9 @@
 html{
-	color:blue;
-	font-family: Helvetica, Arial, monospace;
+	h1{
+		color:#2A2A2A;
+	}
+	p{
+		color:#2AA8CC;
+		font-family: Robot Thin, Arial, monospace; DIN Next light
+	}
 }

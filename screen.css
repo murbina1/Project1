@@ -3,15 +3,31 @@ body{
 	margin-right:15vw;
 	margin-top:15vw;
 	margin-bottom:15vw;
-}
-	p{
-		color:#2A2A2A;
-	}
 
-	h1{
-		text-align:center;
-		color:#2AA8CC;
-	}
-		 /* */
-		color:#2AA8CC;
-	/*	font-family: Robot Thin, Arial, monospace; DIN Next light */
+}
+
+h1{
+	text-align:center;
+	color:#808080;
+	font-size:300%;
+	font-family:Verdana;
+	font-weight:lighter;
+	letter-spacing:0.25em;
+}
+
+h2{
+	text-align:center;
+	color:#2AA8CC;
+	font-family:Verdana;
+	font-weight:lighter;
+	letter-spacing:-0.05em;
+}
+
+p{
+	color:#2A2A2A;
+	font-family:Verdana;
+	font-weight:lightest;
+	letter-spacing:0.05em;
+	word-spacing:0.25em;
+
+}

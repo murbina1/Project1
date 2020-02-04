@@ -12,6 +12,7 @@ body{
 }
 
 h1{
+  text-align:center;
   color:#808080;
   font-size:300%;
   font-family:Verdana;
@@ -20,6 +21,7 @@ h1{
 }
 
 h2{
+  text-align:center;
   color:#2AA8CC;
   font-family:Verdana;
   font-weight:lighter;

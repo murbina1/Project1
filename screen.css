@@ -3,7 +3,7 @@ body{
   margin-right:15vw;
   margin-top:15vw;
   margin-bottom:15vw;
-  text-align:center;
+  text-align:left;
   color:#2A2A2A;
   font-family:Verdana;
   font-weight:lightest;
@@ -15,7 +15,6 @@ h1{
   text-align:center;
   color:#808080;
   font-size:300%;
-  font-family:Verdana;
   font-weight:lighter;
   letter-spacing:0.25em;
 }
@@ -23,14 +22,10 @@ h1{
 h2{
   text-align:center;
   color:#2AA8CC;
-  font-family:Verdana;
   font-weight:lighter;
   letter-spacing:-0.05em;
 }
 
-p{
-
-}
 img {
   display: block;
   margin-left: auto;

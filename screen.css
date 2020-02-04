@@ -29,7 +29,7 @@ p{
   letter-spacing:0.05em;
   word-spacing:0.25em;
 }
-IMG.displayed {
+img.displayed {
     display: block;
     margin-left: auto;
     margin-right: auto;
